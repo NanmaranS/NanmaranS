@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Nanmaran 👋
 
-<!--
-**NanmaranS/NanmaranS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer | Full-Stack Web Development
 
-Here are some ideas to get you started:
+I'm a MERN Stack Developer and Fresher focused on building full-stack web applications. I continuously improve my development skills by working on projects and learning new concepts every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT
+
+### 🚀 Featured Project
+
+**MERN Ecommerce**
+
+A full-stack ecommerce application with user authentication, JWT-based authorization, products, cart, and orders.
+
+🔗 **Live Website:** https://mern-ecommerce-frontend-0jer.onrender.com  
+🔗 **Source Code:** https://github.com/NanmaranS/MERN-Ecommerce
+
+### 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/nanmaran-s/
+- GitHub: https://github.com/NanmaranS
